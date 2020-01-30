@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.net.ServerSocket"/>
-<fullyQualifiedTypeName name="java.net.Socket"/>
 <fullyQualifiedTypeName name="servidorHilo.GestorPeliculas"/>
 <fullyQualifiedTypeName name="cliente.modelo.entidad.Pelicula"/>
 <fullyQualifiedTypeName name="cliente.modelo.negocio.GestorClientePeliculas"/>
@@ -20,7 +18,6 @@
 <fullyQualifiedTypeName name="Coliseo"/>
 <fullyQualifiedTypeName name="modelo.entidad.Direccion"/>
 <fullyQualifiedTypeName name="modelo.entidad.Coche"/>
-<fullyQualifiedTypeName name="modelo.entidad.Persona"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="modelo.entidad.Casa"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="modelo.entidad.Pelicula"/>
 <fullyQualifiedTypeName name="modelo.persistencia.PeliculaDao"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="modelo.entidad.Persona"/>
+<fullyQualifiedTypeName name="modelo.negocio.GestorPersona"/>
 </qualifiedTypeNameHistroy>
