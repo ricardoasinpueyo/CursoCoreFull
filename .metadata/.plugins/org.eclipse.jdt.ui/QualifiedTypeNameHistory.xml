@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="Guerrero"/>
-<fullyQualifiedTypeName name="Espada"/>
-<fullyQualifiedTypeName name="FabricaArmas"/>
 <fullyQualifiedTypeName name="HechizoFuego"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="FabricaPersonajes"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="modelo.entidad.Pedido"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="modelo.entidad.Persona"/>
+<fullyQualifiedTypeName name="modelo.entidad.Usuario"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 </qualifiedTypeNameHistroy>
