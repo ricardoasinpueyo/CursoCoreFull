@@ -17,8 +17,6 @@ h2{
 <body>
 	<!-- Se llama css in line -->
 	<h1 style="text-align: center;color:green;font-family: bookman old style">Bienvenidos a nuestros formularios </h1>
-	<!-- Asi accedemos a los atributos -->
-	<h2 style="color:red">${error}</h2>
 	<!-- Asi accedemos a los parametros -->
 	<h2 style="color:orange">${param.error}</h2>
 	<form action="ServletFormulario" method="post">
