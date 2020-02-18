@@ -35,4 +35,9 @@
     <servlet-name>SegundoServlet</servlet-name>
     <url-pattern>/SaludoRojo</url-pattern>
   </servlet-mapping>
+  
+  
+  <session-config>
+  	<session-timeout>30</session-timeout>
+  </session-config>
 </web-app>
