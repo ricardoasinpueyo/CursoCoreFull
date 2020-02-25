@@ -96,11 +96,6 @@ public class ControladorSaludo {
 
 		@RequestMapping("saludoRedirect")
 		public String metodoRedirect() {
-			//este tipo de envio seria por forward
-			//y consultaria con el viewResolver para saber
-			//donde se encuentra esre recurso
-			//la direccion del recurso resultante seria
-			// /WEB-INF/vistas/inicioSaludo.jsp
 			return "redirect:inicioSaludo";
 			//este return al ser un redirect le diremos
 			//que vaya a buscar un controlador que sea
